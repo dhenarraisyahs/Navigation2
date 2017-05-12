@@ -2,7 +2,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="id.sch.smktelkom_mlg.learn.navigation2.Page2Fragment">
+    tools:context="id.sch.smktelkom_mlg.learn.navigation2.BlankFragment">
 
     <!-- TODO: Update blank fragment layout -->
     <TextView
